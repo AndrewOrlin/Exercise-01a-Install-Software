@@ -7,4 +7,4 @@ My github username is:
 
 AndrewOrlin
 
-I have installed all of the software.
+I have installed the software on my computer as a part of the exercise.
